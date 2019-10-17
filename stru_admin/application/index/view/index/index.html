@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Stru通用后台管理系统</title>
+	<style>
+		.main{
+			width: 100%;
+		    position: absolute;
+		    top: 0;
+		    bottom: 0;
+		    left: 0;
+		    text-align: center;
+		    background-color: #141a48;
+			background-image:url('./static/images/bg.png');
+		}
+		.logo{
+			position: relative;
+			top:20%;
+			color:#fff;
+		}
+		.logo img {
+			display: block;
+			margin:0 auto;
+		}
+		.logo span {
+			margin-top: 15px;
+			display: inline-block;
+		}
+		.welcome {
+			position: absolute;
+			top:10%;
+			left:35%;
+		}
+	</style>
+</head>
+<body>
+	<div class="main">
+		<div class="logo">
+			<h1>
+				<img src="./static/images/logo-write.png" style="width:108px;height: 108px;"  alt="">
+				<span>Stru通用后台</span>
+			</h1>
+			<h2>基于ThinkPHP {$Think.version} 的通用后台系统</h2>
+		</div>
+		<div class="login" style="display: none;">
+			<form action="">
+				<input type="text" placeholder="请输入用户名">
+				<input type="text" placeholder="请输入密码">
+				<button>登陆</button>
+			</form>
+		</div>
+	</div>
+</body>
+</html>
