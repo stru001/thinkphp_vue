@@ -2,7 +2,7 @@
 基于Vue 3.0+ Element UI + ThinkPHP 的多入口 快速搭建应用的框架
 欢迎大家使用Stru
 
-Demo地址
+## Demo地址
 
 前台：http://demo.struphp.com
 
@@ -11,7 +11,7 @@ Demo地址
 用户名和密码都是：admin
 
 
-功能
+## 功能
 
 1、支持阿里iconfont；
 
