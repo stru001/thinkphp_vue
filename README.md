@@ -4,7 +4,11 @@
 
 Demo地址
 
-http://demo.struphp.com       用户名和密码都是：admin
+前台：http://demo.struphp.com
+
+后台：http://demo.struphp.com/admin.html
+
+用户名和密码都是：admin
 
 
 功能
