@@ -2,6 +2,11 @@
 基于Vue 3.0+ Element UI + ThinkPHP 的多入口 快速搭建应用的框架
 欢迎大家使用Stru
 
+Demo地址
+
+http://demo.struphp.com
+
+
 功能
 
 1、支持阿里iconfont；
