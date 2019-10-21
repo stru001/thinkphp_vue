@@ -4,7 +4,7 @@
 
 Demo地址
 
-http://demo.struphp.com
+http://demo.struphp.com       用户名和密码都是：admin
 
 
 功能
